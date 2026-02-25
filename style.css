@@ -241,12 +241,20 @@ h2 {
 
 /* ================= FOOTER ================= */
 
+/* ================= FOOTER ================= */
+
 footer {
-  background: #1f1f1f;
+  background: #1a1a1a;
+  padding: 1.5rem 2rem;
   text-align: center;
-  padding: 1rem;
-  color: #ccc;
-  margin-top: 2rem;
+  margin-top: 3rem;
+  border-top: 1px solid #00adb5;
+}
+
+.footer-content p {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+  color: #aaa;
 }
 
 /* ================= RESPONSIVE ================= */

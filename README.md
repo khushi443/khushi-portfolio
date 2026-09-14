@@ -12,7 +12,7 @@ I enjoy building responsive, user-friendly and modern web applications while con
 
 # 🌐 Live Portfolio
 
-🚀 https://khushi-portfolio-lfqy2i0zv-khushi-s-projects4.vercel.app
+🚀  khushi-portfolio-umber-six.vercel.app
 
 ---
 
